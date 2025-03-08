@@ -66,4 +66,5 @@ Simulate **virtual memory management** using a **page table** with different pag
 **Key Features:**  
 ✅ Implementation of page tables  
 ✅ Page replacement algorithms (FIFO, LRU)  
-✅ Demand paging & memory allocation  
+✅ Demand paging & memory allocation 
+
