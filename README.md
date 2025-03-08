@@ -1,19 +1,19 @@
-# 🖥️ Operating Systems Assignments
+# Operating Systems 
 
 This repository contains hands-on assignments exploring key Operating System concepts such as process management, synchronization, memory management, and virtual memory simulation.
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Assignments](#assignments)
-  - [🛠️ Assignment 1: Building a Simple Shell](#assignment-1-building-a-simple-shell)
-  - [🔗 Assignment 2: Multithreaded Linked List with Synchronization](#assignment-2-multithreaded-linked-list-with-synchronization)
-  - [🔒 Assignment 3: Kernel Module for Encrypted Device Driver](#assignment-3-kernel-module-for-encrypted-device-driver)
-  - [📂 Assignment 4: Virtual Memory and Page Table Simulation](#assignment-4-virtual-memory-and-page-table-simulation)
+  - [Assignment 1: Building a Simple Shell](#assignment-1-building-a-simple-shell)
+  - [Assignment 2: Multithreaded Linked List with Synchronization](#assignment-2-multithreaded-linked-list-with-synchronization)
+  - [Assignment 3: Kernel Module for Encrypted Device Driver](#assignment-3-kernel-module-for-encrypted-device-driver)
+  - [Assignment 4: Virtual Memory and Page Table Simulation](#assignment-4-virtual-memory-and-page-table-simulation)
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 These assignments focus on fundamental concepts in **Operating Systems**, covering:
 - **Process control & execution**
@@ -25,7 +25,7 @@ Each assignment provides practical implementations, reinforcing theoretical know
 
 ---
 
-## 🛠️ Assignment 1: Building a Simple Shell
+## Assignment 1: Building a Simple Shell
 
 **Objective:**  
 Implement a **custom shell** that can execute user commands, handle input/output redirection, and manage background processes.
@@ -37,7 +37,7 @@ Implement a **custom shell** that can execute user commands, handle input/output
 
 ---
 
-## 🔗 Assignment 2: Multithreaded Linked List with Synchronization
+## Assignment 2: Multithreaded Linked List with Synchronization
 
 **Objective:**  
 Develop a **thread-safe linked list** using **pthreads** with proper synchronization techniques.
@@ -49,7 +49,7 @@ Develop a **thread-safe linked list** using **pthreads** with proper synchroniza
 
 ---
 
-## 🔒 Assignment 3: Kernel Module for Encrypted Device Driver
+## Assignment 3: Kernel Module for Encrypted Device Driver
 
 **Objective:**  
 Create a **Linux kernel module** for an **encrypted device driver**, allowing secure file operations.
@@ -61,7 +61,7 @@ Create a **Linux kernel module** for an **encrypted device driver**, allowing se
 
 ---
 
-## 📂 Assignment 4: Virtual Memory and Page Table Simulation
+## Assignment 4: Virtual Memory and Page Table Simulation
 
 **Objective:**  
 Simulate **virtual memory management** using a **page table** with different page replacement policies.
