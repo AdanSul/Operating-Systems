@@ -15,7 +15,7 @@ This repository contains hands-on assignments exploring key Operating System con
 
 ## Introduction
 
-Operating systems serve as the foundation of modern computing, managing hardware resources, enabling process execution, and providing essential functionalities for software applications.
+Operating systems serve as the foundation of modern computing, managing hardware resources, enabling process execution, and providing essential functionalities for software applications.<br>
 These assignments focus on implementing key OS mechanisms through practical coding exercises, helping to develop a deeper understanding of **processes, threading, memory management, and kernel interactions**.
 
 Each assignment explores different OS functionalities, reinforcing both theoretical concepts and hands-on programming skills.
